@@ -1,107 +1,165 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Prateek+Vishwakarma;Cybersecurity+Student;Ethical+Hacker;DFIR+Enthusiast;Always+Learning+🚀" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-</p>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Prateek+Vishwakarma+👋;Cybersecurity+Engineer+in+Progress;Ethical+Hacker;Digital+Forensics+%26+Incident+Response;Blue+Team+%7C+SOC+Analyst;Welcome+to+my+GitHub!" />
 
-<h3 align="center">🔐 Cybersecurity | Penetration Testing | Digital Forensics | Blue Team</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=200&section=header&text=CYBERSECURITY&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💻 About Me
 
-- 🎓 B.Tech CSE (Cyber Security)
-- 🏫 Parul University | Quick Heal IEP
-- 🛡️ Learning:
+```yaml
+Name: Prateek Vishwakarma
+Role: Cyber Security Student
+University: Parul University
+Program: Industry Embedded Program - Quick Heal
+Location: India
+
+Interests:
   - Penetration Testing
+  - Digital Forensics
+  - Incident Response
   - Malware Analysis
+  - Web Security
+  - Cloud Security
+  - Threat Hunting
+
+Currently Learning:
+  - Active Directory
   - DFIR
   - SOC Operations
-  - Cloud Security
-- 🌱 Currently building Cybersecurity Projects
-- 📫 Reach me: **youremail@example.com**
+  - Python Automation
+```
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-## 💻 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,linux,bash,mysql,mongodb,git,github,vscode,html,css,javascript,docker,kali&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,vscode,mysql,mongodb,docker,html,css,javascript&perline=7"/>
 
 </p>
 
 ---
 
-## 🛠 Cybersecurity Tools
+# 🛡️ Security Tools
+
+<div align="center">
+
+| Offensive | Defensive |
+|-----------|-----------|
+| Burp Suite | Wireshark |
+| Metasploit | Splunk |
+| Nmap | OpenVAS |
+| Hydra | Windows Event Logs |
+| Gobuster | Sysmon |
+| SQLMap | ELK Stack |
+| MobSF | Autopsy |
+| Frida | Volatility |
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
-Burp Suite • Metasploit • Wireshark • Nmap • MobSF • OpenVAS • Frida • ADB
-
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&margin-w=15"/>
-
----
-
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&column=4&margin-w=15"/>
 
 </p>
 
 ---
 
-## 🚀 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Visitors&color=0e75b6&style=flat"/>
-
----
-
-## ⚡ Fun Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
----
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+---
+
+# 💡 Cyber Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</p>
+
+---
+
+# 📡 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00ff00&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Random Dev Quote
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ "Security is not a product, it's a process."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff99&height=140&section=footer"/>
+
+</div>
