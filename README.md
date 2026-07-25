@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Prateek+Vishwakarma+👋;Cybersecurity+Engineer+in+Progress;Ethical+Hacker;Digital+Forensics+%26+Incident+Response;Blue+Team+%7C+SOC+Analyst;Welcome+to+my+GitHub!" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Prateek+Vishwakarma;Cybersecurity+Engineer;Welcome+to+my+GitHub!" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=200&section=header&text=CYBERSECURITY&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
