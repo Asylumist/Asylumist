@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Prateek Vishwakarma
+# Prateek Vishwakarma
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Digital+Forensics+%7C+DFIR;Always+Learning+New+Things..." />
 
