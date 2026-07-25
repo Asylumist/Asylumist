@@ -1,74 +1,24 @@
+<!-- HEADER ANIMATION -->
 <div align="center">
-
-# Prateek Vishwakarma
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=520&lines=Cyber+Security+Student;Ethical+Hacking+Enthusiast;Digital+Forensics+%7C+DFIR;Always+Learning+New+Things..." />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Prateek+Vishwakarma!;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Java+%26+Backend+Developer+%F0%9F%92%BB;Welcome+to+my+digital+playground!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
----
+<br />
 
-## 🛡️ About Me
-
-🎓 Final Year B.Tech CSE (Cyber Security) Student
-
-🏫 Parul University
-
-🔐 Industry Embedded Program by Quick Heal
-
-💡 Passionate about Cyber Security, Digital Forensics, Incident Response, and Network Security.
-
----
-
-## ⚡ Interests
-
-- Ethical Hacking
-- Digital Forensics (DFIR)
-- Blue Teaming
-- Threat Hunting
-- Network Security
-- Malware Analysis
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,bash,vscode" />
-</p>
-
-**Security Tools**
-
-`Kali Linux` • `Nmap` • `Wireshark` • `Burp Suite` • `Metasploit`
-
----
-
-## 📂 Current Focus
-
-- Building Cyber Security Projects
-- Learning DFIR & SOC Operations
-- Practicing CTF Challenges
-- Improving Python for Security Automation
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/prateek-vishwakarma-32973a217
-- 📧 Email: YOUR_EMAIL
-
----
-
+<!-- GIF / BANNER -->
 <div align="center">
-
-> **"Learn • Secure • Repeat"** 🔒
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Animated Banner" />
 </div>
+
+<br />
+
+---
+
+## ⚡ About Me
+
+```yaml
+user:
+  name: Prateek Vishwakarma
+  field: Cybersecurity & Software Engineering
+  learning: Advanced Penetration Testing, Compiler Design & Cloud Security
+  passions: [Building Secure Systems, Java Enterprise, Enterprise Architecture]
