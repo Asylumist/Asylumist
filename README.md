@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Prateek+Vishwakarma" />
 
-<img src="(https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=cyber%20security%20&section=header&descAlign=93&animation=twinkling)">
+<img src="(https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=cyber%20security%20&section=header&descAlign=93&animation=twinkling)"/>
 
 </div>
 
